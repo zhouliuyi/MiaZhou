@@ -1,6 +1,5 @@
 theme = "hugo-base16-theme"
-baseURL = "http://example.org/"
+baseURL = "https://zhouliuyi.github.io/"
 languageCode = "en-us"
 title = "Locate Mia Zhou"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-publishDir = "./"
