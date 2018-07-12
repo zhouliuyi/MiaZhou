@@ -38,5 +38,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Test</title>
+      <link>/tags/test/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
