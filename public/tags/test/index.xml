@@ -17,9 +17,13 @@
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/markdown-grammar/</guid>
-      <description>&lt;p&gt;这个博文说明怎么使用&lt;code&gt;markdown&lt;/code&gt;语法。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>这个博文说明怎么使用markdown语法。
+以下Copy Typora提供的markdown参考。
+OverviewMarkdown is created by Daring Fireball, the original guideline is here. Its syntax, however, varies between different parsers or editors. Typora is using GitHub Flavored Markdown.
+Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.
+Outline
+[TOC]
+Block ElementsParagraph and line breaksA paragraph is simply one or more consecutive lines of text.</description>
     </item>
     
     <item>
