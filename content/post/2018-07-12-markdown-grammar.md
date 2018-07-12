@@ -4,7 +4,7 @@ author: "Shixiang"
 date: '2018-07-12'
 slug: markdown-grammar
 categories: 
-    - markdon
+    - markdown
     - 测试
 tags: 
     - test
