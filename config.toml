@@ -1,7 +1,7 @@
 theme = "hugo-base16-theme"
-baseURL = "https://zhouliuyi.github.io/"
+baseURL = "https://miazhou.netlify.com/"
 languageCode = "en-us"
-title = "Locate Mia Zhou"
+title = "Homepage"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 description = "Base16 is a simple and colorful theme with the base16 eighties colorscheme"
 
