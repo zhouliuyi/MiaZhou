@@ -1,14 +1,10 @@
 ---
-title: "测试"
-author: Miazhou
-date: '2018-07-11'
-slug: test-homepage
-categories: 
-    - R
-tags: 
-    - markdown
-    - rmarkdown
-    - test
+title: "Hello R Markdown"
+author: "Frida Gomam"
+date: 2018-07-11
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+summary: "测试下中文"
 ---
 
 ```{r setup, include=FALSE}
