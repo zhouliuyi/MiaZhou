@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plot on Locate Mia</title>
+    <title>Plot on Even - A super concise theme for Hugo</title>
     <link>/tags/plot/</link>
-    <description>Recent content in Plot on Locate Mia</description>
+    <description>Recent content in Plot on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 11 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
@@ -17,11 +17,7 @@
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-07-11-test-homepage/</guid>
-      <description>这是一篇关于hugo blog开始正常显示的测试文。
-&amp;lt;!--more--&amp;gt;对文章进行摘要不起作用，summary选项也不行。Rmd文档运行正常。
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <description>这是一篇关于hugo blog开始正常显示的测试文。 &amp;lt;!--more--&amp;gt;对文章进行摘要不起作用，summary选项也不行。Rmd</description>
     </item>
     
     <item>
@@ -30,10 +26,7 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown这是一篇关于hugo blog开始正常显示的测试文。&amp;lt;!--more--&amp;gt;对文章进行摘要不起作用，summary选项也不行。Rmd文档运行正常。
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+      <description>R Markdown 这是一篇关于hugo blog开始正常显示的测试文。&amp;lt;!--more--&amp;gt;对文章进行摘要不起作用，summary选项也不行。R</description>
     </item>
     
   </channel>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on Locate Mia</title>
+    <title>Markdown on Even - A super concise theme for Hugo</title>
     <link>/categories/markdown/</link>
-    <description>Recent content in Markdown on Locate Mia</description>
+    <description>Recent content in Markdown on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
@@ -17,13 +17,7 @@
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/markdown-grammar/</guid>
-      <description>这个博文说明怎么使用markdown语法。
-以下Copy Typora提供的markdown参考。
-OverviewMarkdown is created by Daring Fireball, the original guideline is here. Its syntax, however, varies between different parsers or editors. Typora is using GitHub Flavored Markdown.
-Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.
-Outline
-[TOC]
-Block ElementsParagraph and line breaksA paragraph is simply one or more consecutive lines of text.</description>
+      <description>这个博文说明怎么使用markdown语法。 以下Copy Typora提供的markdown参考。 Overview Markdown is created by Daring Fireball, the original guideline is here. Its syntax, however, varies between different parsers or editors. Typora is</description>
     </item>
     
   </channel>
