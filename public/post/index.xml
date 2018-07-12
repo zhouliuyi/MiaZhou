@@ -60,15 +60,6 @@
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown 这是一篇关于hugo blog开始正常显示的测试文。&amp;lt;!--more--&amp;gt;对文章进行摘要不起作用，summary选项也不行。R</description>
-    </item>
-    
-    <item>
       <title>Welcome to Tranquilpeak 0.4.3-BETA</title>
       <link>/post/welcome-to-the-new-tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
