@@ -1,5 +1,5 @@
 theme = "hugo-base16-theme"
 baseURL = "https://zhouliuyi.netlify.com"
 languageCode = "en-us"
-title = "Home"
+title = "Locate Mia"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
