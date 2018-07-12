@@ -3,3 +3,9 @@ baseURL = "https://zhouliuyi.github.io/"
 languageCode = "en-us"
 title = "Locate Mia Zhou"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+description = "Base16 is a simple and colorful theme with the base16 eighties colorscheme"
+
+
+[author]
+  name = "Mia Zhou"
+  homepage = "https://github.com/zhouliuyi"
