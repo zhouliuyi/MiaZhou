@@ -1,6 +1,31 @@
 require(tidyverse)
+require(readxl)
+require(plotrix)
+df = read_excel("C:/Users/Z.Zhou/Desktop/99 首充.xlsx")
 
-df = read_csv("C:/Users/Z.Zhou/Desktop/600090.csv", )
+pie_df = table(df$来源)
+labels = names(pie_df)
+
+pie(pie_df, col = rainbow(length(pie_df)))
+
+pie_df2 = table(df$购买物品id)
+pie(pie_df2, col = rainbow(length(pie_df2)))
+
+hist(df$关卡id, breaks = 30, col="blue", xlab = "关卡ID", main = NULL)
+axis(1,at=seq(0,100,10))
+# df = read_csv("C:/Users/Z.Zhou/Desktop/600090.csv")
+
+plot(density(df$付费前所剩金币数))
+df2 = df %>% filter(`付费前所剩金币数`<1000)
+hist(df2$付费前所剩金币数, breaks = 200, col="pink", xlab = "付费前所剩金币数", main = NULL, xlim=c(0,1000))
+axis(1,at=seq(0,1000,50))
+
+
+
+
+
+
+
 
 df %>% ggplot(mapping = aes(x=left_coins)) +
     geom_histogram(breaks =c(0,100,500,1000)) + theme_bw()
